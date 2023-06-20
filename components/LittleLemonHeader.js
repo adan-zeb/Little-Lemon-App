@@ -5,9 +5,10 @@ export default function LittleLemonHeader()
 {
     return(
         <View style={headerfunc.container}> 
-          <Text style={{padding:25, fontSize:15
+          <Text style={{padding:25, fontSize:20
+          
           , color:'black', textAlign: 'center'}}>
-        Welcome to Little Lemon
+          Little Lemon
           </Text>
 
         </View>
