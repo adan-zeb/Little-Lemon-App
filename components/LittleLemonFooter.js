@@ -20,4 +20,5 @@ const footerfunc = StyleSheet.create({
     marginBottom:10,
     },
   });
+  //footer
   

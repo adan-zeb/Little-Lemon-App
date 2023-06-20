@@ -14,7 +14,7 @@ export default function LittleLemonHeader()
         </View>
     );
 }
-
+//man
 
 const headerfunc = StyleSheet.create({
   container: {
