@@ -1,6 +1,6 @@
 import * as React from 'react';
 import {StyleSheet,View, Text} from 'react-native';
-import { StatusBar } from 'expo-status-bar';
+
 export default function LittleLemonHeader()
 {
     return(
@@ -20,5 +20,4 @@ const footerfunc = StyleSheet.create({
     marginBottom:10,
     },
   });
-  //footer
-  
+ 

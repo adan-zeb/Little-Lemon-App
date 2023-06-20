@@ -5,8 +5,8 @@ export default function LittleLemonHeader()
 {
     return(
         <View style={headerfunc.container}> 
-          <Text style={{padding:25, fontSize:20
-          
+          <Text style={{padding:50
+          , fontSize:25,fontWeight: 'bold'
           , color:'black', textAlign: 'center'}}>
           Little Lemon
           </Text>
@@ -14,11 +14,11 @@ export default function LittleLemonHeader()
         </View>
     );
 }
-//man
+
 
 const headerfunc = StyleSheet.create({
   container: {
-    flex: 0.1,
+    flex: 0.2,
     backgroundColor: '#F4CE14',
   },
 });
